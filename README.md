@@ -37,3 +37,10 @@ yarn
 
 
 iv-To run the development server with Vite: i.e npm run dev
+
+# Project uploaded on github , please find the link
+  https://github.com/Aman218/OnlineLibrary
+
+# Project deployed, please find the link
+
+ https://online-library-peach.vercel.app/
